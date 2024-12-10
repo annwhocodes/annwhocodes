@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [VeriFace](https://github.com/annwhocodes/VeriFace-DeepFake-Detector) and [ShaktAI](https://github.com/Nojhi3/woman_safety)
 
-- 🌱 I’m currently learning **react,node,express**
+- 🌱 I’m currently learning **react, node, express**
 
 - 💬 Ask me about **web development, cloud and AI**
 
