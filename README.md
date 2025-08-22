@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ananya</h1>
+<h1 align="center">Hi, I'm Ananya</h1>
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="Ferb" width="400" src="https://gifdb.com/images/high/phineas-and-ferb-eating-bread-1a6dw45z1gsbvujx.webp">
 
@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [VeriFace](https://github.com/annwhocodes/VeriFace-DeepFake-Detector) and [ShaktAI](https://github.com/Nojhi3/woman_safety)
 
-- 🌱 I’m currently learning **react, node, express**
+- 🌱 I’m currently learning **AI, .NET and Angular**
 
-- 💬 Ask me about **web development, cloud and AI**
+- 💬 Ask me about **web development, cloud and Agentic AI**
 
 - 📫 How to reach me **ananyeah98@gmail.com**
 
